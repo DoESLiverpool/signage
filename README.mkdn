@@ -1,0 +1,37 @@
+DoES Liverpool Signage
+======================
+
+Source files and compiler to generate the signs for printing/cutting 
+to go up around DoES. Using consistent templates and styles will give
+a consistent look to the space, and using laser printing with laser cut
+parts will let us generate and organise signage in house.
+
+SVG 
+---
+
+The SVG files should have 3 layers to allow for automatic separation of the
+two preparation methods, and the visual only parts: 
+
+ * Visual
+ * Print
+ * Laser
+
+In the 'Laser' layer, only two colours should be used (as only cuts are 
+relevant), fully red (RGB 255,0,0) for external cutouts and fully blue (RGB 
+0,0,255) for internal cutouts. No engraving is suitable. 
+
+The 'Visual' layer includes elements that are only required for visual 
+composition, i.e. Black filled boundaries that match where the laser cut parts
+will be. 
+
+And the 'Print' layer should include the printed elements, including an 
+outline for cutting out. To make printing easier, all items should be
+within an A4 page size so they can be printed in house, unless there is 
+good reason to do otherwise. 
+
+To Do
+-----
+
+A makefile should autogenerate the DXF cutting files (or EPS intermediate
+files) for laser cutting and PDF files for laser printing and place them in 
+relevant directories. 
