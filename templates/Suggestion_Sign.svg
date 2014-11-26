@@ -13,8 +13,8 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Warning_Sign.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Suggestion_Sign.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75924431"
+     inkscape:zoom="0.47797233"
      inkscape:cx="372.04724"
      inkscape:cy="526.18109"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="965"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -43,51 +43,74 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Laser"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <path
-       style="fill:none;stroke:#000000;stroke-width:28.34645669;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 354.33071,166.53541 106.29921,520.86612 354.33071,875.19683 602.3622,520.86612 z"
-       id="path2989"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#ff0000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 353.75,157.6875 a 14.174646,14.174646 0 0 0 -11.03125,6.03125 L 94.6875,518.0625 a 14.174646,14.174646 0 0 0 0,16.25 L 342.71875,888.625 a 14.174646,14.174646 0 0 0 23.21875,0 L 613.96875,534.3125 a 14.174646,14.174646 0 0 0 0,-16.25 L 365.9375,163.71875 A 14.174646,14.174646 0 0 0 353.75,157.6875 z"
+       id="path3009"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 354.3125,196.5625 230.75,329.625 -230.75,329.59375 L 123.59375,526.1875 354.3125,196.5625 z"
+       id="path2999"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Print"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Raoul TRANSPORT Britannique;-inkscape-font-specification:Raoul TRANSPORT Britannique"
        x="351.48892"
-       y="438.80362"
+       y="470.48773"
        id="text3759"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="360.94205"
-         y="438.80362"
+         y="470.48773"
          style="font-size:40px"
          id="tspan3045">Use this </tspan><tspan
          sodipodi:role="line"
          x="360.94205"
-         y="488.80362"
+         y="520.48773"
          style="font-size:40px"
          id="tspan3056">shape to </tspan><tspan
          sodipodi:role="line"
          x="351.48892"
-         y="538.80359"
+         y="570.48773"
          style="font-size:40px"
          id="tspan3066">INSTRUCT</tspan><tspan
          sodipodi:role="line"
          x="351.48892"
-         y="588.80359"
+         y="620.48773"
          style="font-size:40px"
-         id="tspan3068">a suggested</tspan><tspan
-         sodipodi:role="line"
-         x="351.48892"
-         y="638.80359"
-         style="font-size:40px"
-         id="tspan3060">action</tspan></text>
+         id="tspan3060">an action</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3779"
+       d="m 353.75,157.6875 a 14.174646,14.174646 0 0 0 -11.03125,6.03125 L 94.6875,518.0625 a 14.174646,14.174646 0 0 0 0,16.25 L 342.71875,888.625 a 14.174646,14.174646 0 0 0 23.21875,0 L 613.96875,534.3125 a 14.174646,14.174646 0 0 0 0,-16.25 L 365.9375,163.71875 A 14.174646,14.174646 0 0 0 353.75,157.6875 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#000000;stroke-width:0.70866143999999998;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Visual"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:28.34645653;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="M 354.33071,171.85038 106.29921,526.18109 354.33071,880.5118 602.3622,526.18109 z"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
