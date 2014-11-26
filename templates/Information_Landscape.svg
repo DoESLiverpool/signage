@@ -26,9 +26,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67598942"
-     inkscape:cx="526.18109"
+     inkscape:cx="409.31536"
      inkscape:cy="372.04724"
-     inkscape:current-layer="g3031"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="702"
@@ -63,10 +63,27 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Laser"
+     style="display:none">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#ff0000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 135.75,17.88855 c -15.09079,0 -26.0625,13.34062 -26.0625,27.625 l 0,616.09375 c 0,14.28438 10.97171,27.625 26.0625,27.625 l 760.75,0 c 15.09079,0 26.09375,-13.34062 26.09375,-27.625 l 0,-616.09375 c 0,-14.28438 -11.00296,-27.625 -26.09375,-27.625 l -760.75,0 z"
+       id="path3784"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#0000ff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 136.53125,44.7323 759.21875,0 c -0.0136,0.0727 0,0.17425 0,0.78125 l 0,616.09375 c 0,0.607 -0.0136,0.70856 0,0.78125 l -759.21875,0 c 0.0137,-0.0726 -0.0312,-0.17412 -0.0312,-0.78125 l 0,-616.09375 c 0,-0.60713 0.0449,-0.70862 0.0312,-0.78125 z"
+       id="rect3001"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Print"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-308.2677)">
+     transform="translate(0,-308.2677)"
+     style="display:inline">
     <g
        id="g3031"
        transform="translate(-101.11131,-19.116574)">
@@ -82,7 +99,7 @@
            id="tspan4333"
            sodipodi:role="line"
            style="font-size:40px">heading:</tspan><tspan
-           y="749.12897"
+           y="748.41083"
            x="310.38574"
            sodipodi:role="line"
            style="font-size:72px"
@@ -97,7 +114,7 @@
            sodipodi:role="line"
            style="font-size:40px"
            id="tspan3950">40pt text:</tspan><tspan
-           y="939.12897"
+           y="938.41083"
            x="310.38574"
            sodipodi:role="line"
            style="font-size:72px"
@@ -155,8 +172,21 @@
            id="tspan3054"
            sodipodi:role="line">Info</tspan></text>
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3787"
+       d="m 135.75,17.88855 c -15.09079,0 -26.0625,13.34062 -26.0625,27.625 l 0,616.09375 c 0,14.28438 10.97171,27.625 26.0625,27.625 l 760.75,0 c 15.09079,0 26.09375,-13.34062 26.09375,-27.625 l 0,-616.09375 c 0,-14.28438 -11.00296,-27.625 -26.09375,-27.625 l -760.75,0 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(0,308.2677)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Visual"
+     style="display:inline">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:26.82184792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="translate(0,-308.2677)"
+       style="fill:none;stroke:#000000;stroke-width:26.82184792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect3074"
        width="786.0658"
        height="644.50726"
