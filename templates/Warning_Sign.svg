@@ -50,7 +50,7 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
+     id="layer1"
      inkscape:label="Laser"
      style="display:inline">
     <path
@@ -83,7 +83,7 @@
   <g
      inkscape:label="Printed"
      inkscape:groupmode="layer"
-     id="layer1"
+     id="layer2"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -122,7 +122,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
+     id="layer3"
      inkscape:label="Visual"
      style="display:inline">
     <path

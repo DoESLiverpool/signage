@@ -64,7 +64,7 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
+     id="layer1"
      inkscape:label="Laser"
      style="display:none">
     <path
@@ -81,7 +81,7 @@
   <g
      inkscape:label="Print"
      inkscape:groupmode="layer"
-     id="layer1"
+     id="layer2"
      transform="translate(0,-308.2677)"
      style="display:inline">
     <g
