@@ -39,9 +39,9 @@ relevant directories.
 something like: 
 
 ```
-$ inkscape sign_source/<filename>.svg --export-id=layer1 --export-eps=sign_laser/<filename>.eps
-$ inkscape sign_source/<filename>.svg --export-id=layer1 --export-dxf=sign_laser/<filename>.dxf
-$ inkscape sign_source/<filename>.svg --export-id=layer2 --export-pdf=sign_print/<filename>.pdf
+$ inkscape sign_source/<filename>.svg --export-id=layer1 --export-eps=laserable/<filename>.eps
+$ inkscape sign_source/<filename>.svg --export-id=layer1 --export-dxf=laserable/<filename>.dxf
+$ inkscape sign_source/<filename>.svg --export-id=layer2 --export-pdf=printable/<filename>.pdf
 ```
 
 should work if the layer id's are correctly set in the templates. But choosing by layer name 
